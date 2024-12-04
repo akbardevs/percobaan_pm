@@ -2,7 +2,7 @@
 
 ## Installation
 
-laravel new percobaan_pm
+laravel new percobaan_pm2
 
 composer require laravel/ui
 
